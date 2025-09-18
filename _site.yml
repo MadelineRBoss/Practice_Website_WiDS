@@ -12,6 +12,6 @@ navbar:
       href: Education.html
 
 output:
-  prettydoc::html_pretty:
-    theme: cayman
+  html_document:
+    theme: flatly
     toc: true
