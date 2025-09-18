@@ -8,8 +8,6 @@ links:
     url: "https://github.com/"
   - label: Email
     url: "https://github.com/MadelineRBoss"
-output:
-  postcards::trestles
 ---
 
 Madeline Boss is a current undergraduate at UT Austin studying Statistics and Data Science. This website is for employers to learn more about her through her education background, personal projects, and her work experience. Feel free to explore her professional social media as well.
