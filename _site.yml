@@ -2,6 +2,7 @@ name: "my-website"
 output_dir: "."
 
 navbar:
+  title: "My Website"
   right:
     - text: "Home"
       href: index.html
@@ -13,4 +14,4 @@ navbar:
 output:
   prettydoc::html_pretty:
     theme: cayman
-    toc: yes
+    toc: true
