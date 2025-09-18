@@ -2,7 +2,6 @@ name: "my-website"
 output_dir: "."
 
 navbar:
-  title: "Home"
   right:
     - text: "Home"
       href: index.html
@@ -12,7 +11,6 @@ navbar:
       href: Education.html
 
 output:
-  html_document:
-    theme: cerulean
-    toc: true
-    toc_float: true
+  prettydoc::html_pretty:
+    theme: cayman
+    toc: yes

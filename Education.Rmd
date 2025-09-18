@@ -3,9 +3,9 @@ title: "Education"
 ---
 ------------------------------------------------------------------------
 
-### Bachelor's in Science in Statistics and Data Science 
-##### University of Texas at Austin
-###### August 2023 - May 2026
+## Bachelor's in Science in Statistics and Data Science 
+#### University of Texas at Austin
+#### August 2023 - May 2026
 
 Minors: Business and Computer Science
 
@@ -17,9 +17,9 @@ Relevant Coursework: Advance Statistical Methods, Practical Machine Learning, Pr
 
 ------------------------------------------------------------------------
 
-### High School Degree
-##### Bentonville West High School
-###### August 2019 - May 2023
+## High School Degree
+#### Bentonville West High School
+#### August 2019 - May 2023
 
 GPA: 4.56 / 4.00
 
